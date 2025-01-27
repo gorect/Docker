@@ -31,12 +31,12 @@ To use the files in this repository:
    git clone https://github.com/<your-username>/Docker.git
    cd Docker
 
-Navigate to the desired project directory:
+2. Navigate to the desired project directory:
 ```bash
 cd <project-name>
 ```
 
-Run the Docker Compose file:
+3. Run the Docker Compose file:
 ```bash
 docker-compose up -d
 ```

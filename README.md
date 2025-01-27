@@ -1,6 +1,6 @@
 # Docker
 
-Welcome to the **Docker** repository! This is where I store and manage all of my Docker Compose files for thr various projects, applications, and services that I self-host.
+Welcome to the **Docker** repository! This is where I store and manage all of my Docker Compose files for the various projects, applications, and services that I self-host.
 
 ---
 
@@ -11,6 +11,8 @@ Welcome to the **Docker** repository! This is where I store and manage all of my
 3. [Usage](#usage)
 4. [Contributing](#contributing)
 5. [License](#license)
+6. [Acknowledgments](#acknowledgments)
+
 
 ---
 
@@ -40,7 +42,7 @@ cd <project-name>
 ```bash
 docker-compose up -d
 ```
-Ensure Docker and Docker Compose are installed on your system. If not, refer to the Docker installation aection of this repo to get started.
+Ensure Docker and Docker Compose are installed on your system. If not, refer to the Docker installation section of this repo to get started.
 
 ## 📂 Usage
 Each project directory includes:

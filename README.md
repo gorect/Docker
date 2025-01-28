@@ -30,7 +30,7 @@ To use the files in this repository:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Docker.git
+   git clone https://github.com/gorect/Docker.git
    cd Docker
 
 2. Navigate to the desired project directory:

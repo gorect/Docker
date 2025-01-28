@@ -1,0 +1,20 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    env_file: .env
+    restart: always
+    volumes:
+      - ./pgdata:/va>
+  linkwarden:
+    env_file: .env
+    environment:
+      - DATABASE_URL=postgresql://postgres:${POSTGRES_P>
+    restart: unless-stopped
+    # build: . # uncomment this line to build from sour>
+    image: ghcr.io/linkwarden/linkwarden:latest # comme>
+    ports:
+      - 3001:3000
+    volumes:
+      - ./data:/data>
+    depends_on:
+      - postgres

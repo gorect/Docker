@@ -1,0 +1,14 @@
+services:
+  obsidian:
+    image: lscr.io/linuxserver/obsidian:latest
+    container_name: obsidian
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=America/New_York
+    volumes:
+      - ./obsidian-vault:/config
+    ports:
+      - 3002:3000
+      - 3003:3001
+    restart: unless-stopped

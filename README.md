@@ -6,11 +6,11 @@ Welcome to the **Docker** repository! This is where I store and manage all of my
 
 ## 📋 Table of Contents
 
-1. [About](#about)
-2. [Getting Started](#getting-started)
-3. [Usage](#usage)
-4. [Contributing](#🤝contributing) 
-5. [License](#license)
+1. [About](https://github.com/gorect/Docker/blob/main/README.md#-about)
+2. [Getting Started](https://github.com/gorect/Docker/blob/main/README.md#-getting-started)
+3. [Usage](https://github.com/gorect/Docker/blob/main/README.md#-usage)
+4. [Contributing](https://github.com/gorect/Docker?tab=readme-ov-file#-contributing) 
+5. [License](https://github.com/gorect/Docker/blob/main/README.md#-license)
 6. [Acknowledgments](#acknowledgments)
 
 
@@ -66,7 +66,7 @@ This repository is licensed under the GLP v3 License. You are free to use, modif
 For more information about the GPLv3, visit the [official license documentation](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 
-🌟 Acknowledgments
+## 🌟 Acknowledgments
 Special thanks to the YouTuber Terminal for Life, who was the frist person to review my code and give me the push to start my scripting journey. 
 
 Happy containerizing! 🚢

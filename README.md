@@ -11,7 +11,7 @@ Welcome to the **Docker** repository! This is where I store and manage all of my
 3. [Usage](https://github.com/gorect/Docker/blob/main/README.md#-usage)
 4. [Contributing](https://github.com/gorect/Docker?tab=readme-ov-file#-contributing) 
 5. [License](https://github.com/gorect/Docker/blob/main/README.md#-license)
-6. [Acknowledgments](#acknowledgments)
+6. [Acknowledgments](#-acknowledgments)
 
 
 ---

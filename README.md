@@ -9,7 +9,7 @@ Welcome to the **Docker** repository! This is where I store and manage all of my
 1. [About](#about)
 2. [Getting Started](#getting-started)
 3. [Usage](#usage)
-4. [Contributing](#contributing)
+4. [Contributing](#🤝contributing) 
 5. [License](#license)
 6. [Acknowledgments](#acknowledgments)
 
@@ -51,7 +51,7 @@ A `docker-compose.yml` file
 Environment configuration (`.env` files if applicable)
 Additional instructions in a `README.md` file (when necessary). 
 
-## 🤝 Contributing
+## 🤝 Contributing 
 Contributions are welcome! If you'd like to add a new project, update existing files, or fix any issues, please:
 
 Fork the repository.

@@ -67,6 +67,6 @@ For more information about the GPLv3, visit the [official license documentation]
 
 
 ## 🌟 Acknowledgments
-Special thanks to the YouTuber Terminal for Life, who was the frist person to review my code and give me the push to start my scripting journey. 
+Special thanks to the YouTuber Terminal for Life, who was the first person to review my code and give me the push to start my scripting journey. 
 
 Happy containerizing! 🚢

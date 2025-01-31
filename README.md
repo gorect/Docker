@@ -34,14 +34,14 @@ To use the files in this repository:
    cd Docker
 
 2. Navigate to the desired project directory:
-```bash
-cd <project-name>
-```
+   ```bash
+   cd <project-name>
+   ```
 
 3. Run the Docker Compose file:
-```bash
-docker-compose up -d
-```
+   ```bash
+   docker-compose up -d
+   ```
 Ensure Docker and Docker Compose are installed on your system. If not, refer to the Docker installation section of this repo to get started.
 
 ## 📂 Usage

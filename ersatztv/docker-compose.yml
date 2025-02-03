@@ -1,0 +1,15 @@
+services:
+  ersatztv:
+    container_name: ersatztv
+    image: jasongdove/ersatztv:latest-vaapi
+    restart: unless-stopped
+    environment:
+      - TZ=America/New_York
+    ports:
+      - "8409:8409"
+    volumes:
+      - ./config:/root/.local/share/ersatztv
+      - ./media:/media:ro
+    tmpfs:
+      - /root/.local/share/etv-transcode
+

@@ -1,0 +1,36 @@
+2025-02-03 14:25:37.244 -05:00 [INF] ErsatzTV version 25.1.0-docker-vaapi
+2025-02-03 14:25:37.286 -05:00 [WRN] Give feedback at https://github.com/ErsatzTV/ErsatzTV or https://discord.gg/hHaJm3yGy6
+2025-02-03 14:25:37.293 -05:00 [INF] Database is at /root/.local/share/ersatztv/ersatztv.sqlite3
+2025-02-03 14:25:37.302 -05:00 [INF] Transcode folder is /root/.local/share/etv-transcode
+2025-02-03 14:25:37.411 -05:00 [INF] Using Lucene (embedded) search index backend
+2025-02-03 14:25:37.465 -05:00 [WRN] No XML encryptor configured. Key {194470d2-7037-418d-b5b1-eab8269ef2e7} may be persisted to storage in unencrypted form.
+2025-02-03 14:25:37.484 -05:00 [INF] Applying database migrations
+2025-02-03 14:25:37.486 -05:00 [INF] Server will listen on port 8409 - try UI at http://localhost:8409
+2025-02-03 14:25:37.613 -05:00 [INF] Worker service started
+2025-02-03 14:25:37.616 -05:00 [INF] FFmpeg worker service started
+2025-02-03 14:26:21.716 -05:00 [INF] Cleaning database
+2025-02-03 14:26:21.719 -05:00 [INF] Done applying database migrations
+2025-02-03 14:26:21.797 -05:00 [INF] Search index worker service started
+2025-02-03 14:26:21.821 -05:00 [INF] Emptying transcode cache folder
+2025-02-03 14:26:21.822 -05:00 [INF] Done emptying transcode cache folder
+2025-02-03 14:26:21.858 -05:00 [INF] Done cleaning database
+2025-02-03 14:26:21.864 -05:00 [INF] Initializing search index
+2025-02-03 14:26:21.890 -05:00 [INF] Located ffmpeg at /usr/local/bin/ffmpeg
+2025-02-03 14:26:21.896 -05:00 [INF] Located ffprobe at /usr/local/bin/ffprobe
+2025-02-03 14:26:21.963 -05:00 [WRN] Search index failed to initialize; will delete and recreate
+2025-02-03 14:26:21.969 -05:00 [INF] Done initializing search index
+2025-02-03 14:26:21.969 -05:00 [INF] Migrating search index to version 45
+2025-02-03 14:26:23.242 -05:00 [INF] Done migrating search index in 1 second
+2025-02-03 14:26:23.243 -05:00 [INF] Plex service started; secrets are at /root/.local/share/ersatztv/plex-secrets.json
+2025-02-03 14:26:23.244 -05:00 [INF] Scanner service started
+2025-02-03 14:26:23.246 -05:00 [INF] Scheduler service started
+2025-02-03 14:26:23.247 -05:00 [INF] Jellyfin service started; secrets are at /root/.local/share/ersatztv/jellyfin-secrets.json
+2025-02-03 14:26:23.247 -05:00 [INF] Emby service started; secrets are at /root/.local/share/ersatztv/emby-secrets.json
+2025-02-03 14:38:38.594 -05:00 [INF] Search index worker service shutting down
+2025-02-03 14:38:38.595 -05:00 [INF] FFmpeg worker service shutting down
+2025-02-03 14:38:38.596 -05:00 [INF] Scheduler service shutting down
+2025-02-03 14:38:38.596 -05:00 [INF] Worker service shutting down
+2025-02-03 14:38:38.597 -05:00 [INF] Scanner service shutting down
+2025-02-03 14:38:38.598 -05:00 [INF] Plex service shutting down
+2025-02-03 14:38:38.598 -05:00 [INF] Jellyfin service shutting down
+2025-02-03 14:38:38.599 -05:00 [INF] Emby service shutting down
